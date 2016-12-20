@@ -1,0 +1,11 @@
+img{
+    height: 300px;
+    width:400px;
+}
+button{
+    display: block;
+    height:30px;
+    width:100px;
+    background-color: purple;
+    color: white;
+}
